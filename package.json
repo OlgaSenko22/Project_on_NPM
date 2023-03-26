@@ -1,0 +1,29 @@
+{
+  "name": "project_on_npm",
+  "version": "1.0.0",
+  "description": "Hillel",
+  "main": "index.html",
+  "scripts": {
+    "test": "command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlgaSenko22/Project_on_NPM.git"
+  },
+  "keywords": [
+    "Hello"
+  ],
+  "author": "Olga Senko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlgaSenko22/Project_on_NPM/issues"
+  },
+  "homepage": "https://github.com/OlgaSenko22/Project_on_NPM#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "prettier": "^2.8.7"
+  }
+}
